@@ -1,2 +1,2 @@
-# MachineLearningID3
-Implementation of decision tree (ID3 Algorithm)
+# MachineLearningA2
+Implementation of decision tree using entropy
